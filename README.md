@@ -19,7 +19,7 @@
 * **Encryption/Decryption is made via client-side, both user must have the same key.**
 * **This is just an example of how to make a simple CNC chat app with Go.**
 
-> # Improvement
+> # To Improvement
 
 * **Print a banner on connection.**
 * **Improve UI.**
