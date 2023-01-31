@@ -7,7 +7,7 @@
 ----
 
 <p align="center">
-      <img src="https://cdn.discordapp.com/attachments/1065385280393203892/1070107230327812107/image.png" alt="Chat App" width="500">
+      <img src="https://cdn.discordapp.com/attachments/1065385280393203892/1070107230327812107/image.png" alt="Chat App" width="800">
 </p>
 
 ---
