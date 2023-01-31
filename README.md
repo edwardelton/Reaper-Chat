@@ -7,7 +7,7 @@
 ----
 
 <p align="center">
-      <img src="https://media.discordapp.net/attachments/1005892069056843920/1006352925368537178/unknown.png" alt="Theme Image" width="500">
+      <img src="https://cdn.discordapp.com/attachments/1065385280393203892/1070107230327812107/image.png" alt="Chat App" width="500">
 </p>
 
 ---
@@ -22,6 +22,7 @@
 > # Improvement
 
 * **Print a banner on connection.**
+* **Improve UI.**
 * **Create rooms, set password, etc.**
 * **Logs message in the certain room if activated.**
 
